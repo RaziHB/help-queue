@@ -13,6 +13,8 @@ Exercice2:
 
 Exercice3:
 1.404 | Not Found car le chemin indiqué dans l'url n'est plus le même que celui dans le code
-2.
+
+Exercice4:
+1.elle ne fontionne pas car dans Route::get('/hello/{name}') on lui a donné un seul paramètre et non pas /hello/{name}/...
 
 

@@ -8,3 +8,6 @@ Route::get('/', function () {
 Route::get('/hello', function () {
 return 'Hello from Laravel!';
 });
+Route::get('/hello/{name}', function (string $name) {
+return "Hello $name!";
+});
