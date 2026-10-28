@@ -26,3 +26,6 @@ Exercice7:
 
 Exercice8:
 6.Illuminate\Database\Eloquent\MassAssignmentException  Add [name] to fillable property to allow mass assignment on [App\Models\Ticket].
+
+Exercice9:
+7.ticket num 4
