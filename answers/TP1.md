@@ -21,3 +21,6 @@ Exercice5:
 4.on voit Hello <marquee>Bob , on déduit que le
 rôle de {{ }} est de définir un paramètre par exemple le pénom dans notre cas qui ne s'interresse pas de sont valeur
 
+Exercice7:
+5.7 colonnes, les colonnes que je n'ai pas créer sont  created_at et updated_at elle ont été construites par $table->timestamps();
+
