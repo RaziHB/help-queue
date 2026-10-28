@@ -24,3 +24,5 @@ rôle de {{ }} est de définir un paramètre par exemple le pénom dans notre ca
 Exercice7:
 5.7 colonnes, les colonnes que je n'ai pas créer sont  created_at et updated_at elle ont été construites par $table->timestamps();
 
+Exercice8:
+6.Illuminate\Database\Eloquent\MassAssignmentException  Add [name] to fillable property to allow mass assignment on [App\Models\Ticket].
