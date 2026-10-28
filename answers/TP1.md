@@ -17,4 +17,7 @@ Exercice3:
 Exercice4:
 1.elle ne fontionne pas car dans Route::get('/hello/{name}') on lui a donné un seul paramètre et non pas /hello/{name}/...
 
+Exercice5:
+4.on voit Hello <marquee>Bob , on déduit que le
+rôle de {{ }} est de définir un paramètre par exemple le pénom dans notre cas qui ne s'interresse pas de sont valeur
 
